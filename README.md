@@ -88,6 +88,13 @@ or offline using the provided notebook: [`Mata_Dataset-Generation.ipynb`](Mata_D
 
 ---
 
+## Supported Languages
+
+* Actively tested on **Persian**
+* Easily customizable for other low-resource languages with available ASR models
+
+---
+
 ## 📚 Citation
 
 If you use this project in your work, please cite the corresponding paper:
